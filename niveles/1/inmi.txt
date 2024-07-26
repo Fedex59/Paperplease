@@ -1,0 +1,36 @@
+inmigrante_1:
+nombre: Perez Ramon
+nacionalidad: Italiana
+fecha_nacimiento: 15 de marzo de 1987
+tipo_visa: Turismo
+duración_estancia: 2 semanas
+e_cicil: Casado
+documento_tipo: pasaporte
+documento_numero: A123456
+documento_fechaExpiracion: 2025-01-01
+tipo_persona: aduanero
+
+inmigrante_2:
+nombre: Zapata Julian
+nacionalidad: Mexicana
+fecha_nacimiento: 10 de julio de 1995
+tipo_visa: Negocios
+duración_estancia: 1 mes
+e_cicil: Soltero
+documento_tipo: pasaporte
+documento_numero: B654321
+documento_fechaExpiracion: 2024-02-02
+tipo_persona: Revolucionario
+
+inmigrante_3:
+nombre: Ramirez Pedro
+nacionalidad: Japonesa
+fecha_nacimiento: 21 de noviembre de 1979
+tipo_visa: Estudios
+duración_estancia: 6 meses
+e_cicil: Viudo
+documento_tipo: visa
+documento_numero: V654321
+documento_fechaExpiracion: 2023-02-02
+documento_proposito: Negocios
+tipo_persona: Diplomático:

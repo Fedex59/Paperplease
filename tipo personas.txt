@@ -1,0 +1,5 @@
+Tipos de Personas que Intentan Entrar:
+Aldeano: que nos dará 10 puntos por cada vez que autoricemos correctamente o nos quitará 15 en el caso de equivocarnos.
+Refugiado político: que nos dará 15 puntos por cada vez que autoricemos correctamente o nos quitará 25 en el caso de equivocarnos.
+Diplomático: que nos dará 25 puntos por cada vez que autoricemos correctamente o nos quitará 25 en el caso de equivocarnos y obtendremos una multa.
+Revolucionario: Nunca debe poder entrar por más que tenga todos sus papeles correctos y si nos equivocamos nos quitará 25 en el caso de equivocarnos y obtendremos una multa.

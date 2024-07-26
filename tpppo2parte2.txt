@@ -1,0 +1,6 @@
+-añadir nuevos parametros de tipo de aldeano(campesino, politico)
+-leer y comparar datos. //asignar si esta bien o no en una y listo
+-boton de instrucciones
+-sistema de niveles // if yes or no == 3 then nivel++
+-otra tabla para comparar datos (agregar una id a cada persona)
+-orden en el que salen los datos de los inmigrantes

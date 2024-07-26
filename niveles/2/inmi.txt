@@ -1,0 +1,35 @@
+inmigrante_1:
+nombre: Lucie Schneide
+nacionalidad: Antegria
+fecha_nacimiento: 01 de enero de 1946
+tipo_visa: Turismo
+duración_estancia: 2 semanas
+e_cicil: Casado
+documento_tipo: pasaporte
+documento_numero: JY9757ACX1
+documento_fechaExpiracion: 24/8/1983
+
+inmigrante_2:
+nombre: Nazanin Zahra Rizzo
+nacionalidad: United Federation
+fecha_nacimiento: 6 de julio de 1952
+tipo_visa: Negocios
+duración_estancia: 1 mes
+e_cicil: Soltero
+documento_tipo: pasaporte
+documento_numero: EVE7NMOIGS
+documento_fechaExpiracion: 3/2/1981
+
+inmigrante_3:
+nombre: Luke Cvetkovski
+nacionalidad: Republia
+fecha_nacimiento: 04 de noviembre de 1934
+tipo_visa: Estudios
+duración_estancia: 6 meses
+e_cicil: Viudo
+documento_tipo: visa
+documento_numero: J5IIU531GV
+documento_fechaExpiracion: 9/5/1983
+documento_proposito: Negocios
+
+
