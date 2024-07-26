@@ -1,0 +1,79 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.slo
+*.pdb
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Compiled Dynamic libraries
+*.dylib
+*.dll
+*.so
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Qt moc files
+moc_*.cpp
+moc_*.h
+
+# Qt uic files
+ui_*.h
+
+# Qt rcc files
+qrc_*.cpp
+
+# Qt qml files
+*.qmlc
+
+# Qt build files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+Makefile
+*.qmake.cache
+*.qmake.*
+*.qmake.*
+*.pro.*
+*.qmake.*
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MacOS files
+*.DS_Store
+
+# Linux files
+*.swp
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directory
+/build/
+build/
+
+PaperPlease.pro.user
