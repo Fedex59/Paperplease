@@ -6,4 +6,6 @@ Fecha de nacimiento: Mayor al año 1976.
 Estado civil: Soltero.
 Duración de la estancia: 6 meses.
 Tipo de visita: Laboral.
-País de residencia: United Federation
+País de residencia:
+Propósito del viaje: Turismo, negocios o visita familiar.
+Viaja solo o con otros integrantes:

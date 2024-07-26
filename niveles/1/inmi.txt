@@ -1,36 +1,112 @@
-inmigrante_1:
-nombre: Perez Ramon
-nacionalidad: Italiana
-fecha_nacimiento: 15 de marzo de 1987
-tipo_visa: Turismo
-duración_estancia: 2 semanas
-e_cicil: Casado
-documento_tipo: pasaporte
-documento_numero: A123456
-documento_fechaExpiracion: 2025-01-01
-tipo_persona: aduanero
-
-inmigrante_2:
-nombre: Zapata Julian
-nacionalidad: Mexicana
-fecha_nacimiento: 10 de julio de 1995
+Inmigrante_16:
+nombre: Raj Patel
+nacionalidad: Indoria
+fecha_nacimiento: 14 de junio de 1975
 tipo_visa: Negocios
 duración_estancia: 1 mes
-e_cicil: Soltero
+e_civil: Soltero
 documento_tipo: pasaporte
-documento_numero: B654321
-documento_fechaExpiracion: 2024-02-02
-tipo_persona: Revolucionario
+documento_numero: R6F2K9W8BN
+documento_fechaExpiracion: 30/4/2024
 
-inmigrante_3:
-nombre: Ramirez Pedro
-nacionalidad: Japonesa
-fecha_nacimiento: 21 de noviembre de 1979
+Inmigrante_17:
+nombre: Elena Morales
+nacionalidad: Floren
+fecha_nacimiento: 19 de octubre de 1968
+tipo_visa: Estudios
+duración_estancia: 5 meses
+e_civil: Divorciado
+documento_tipo: visa
+documento_numero: Z3M8V4F2RQ
+documento_fechaExpiracion: 22/8/2025
+documento_proposito: Estudios
+
+Inmigrante_18:
+nombre: Lars Jensen
+nacionalidad: Arlandia
+fecha_nacimiento: 2 de septiembre de 1980
+tipo_visa: Turismo
+duración_estancia: 4 semanas
+e_civil: Soltero
+documento_tipo: pasaporte
+documento_numero: K7N3J2L8DX
+documento_fechaExpiracion: 9/7/2024
+
+Inmigrante_19:
+nombre: Priya Singh
+nacionalidad: Viklandia
+fecha_nacimiento: 11 de diciembre de 1992
+tipo_visa: Negocios
+duración_estancia: 3 semanas
+e_civil: Casado
+documento_tipo: pasaporte
+documento_numero: M4P6X9G2WR
+documento_fechaExpiracion: 13/5/2027
+
+Inmigrante_20:
+nombre: Tomás Gonzalez
+nacionalidad: Oridia
+fecha_nacimiento: 25 de enero de 1960
 tipo_visa: Estudios
 duración_estancia: 6 meses
-e_cicil: Viudo
+e_civil: Soltero
 documento_tipo: visa
-documento_numero: V654321
-documento_fechaExpiracion: 2023-02-02
-documento_proposito: Negocios
-tipo_persona: Diplomático:
+documento_numero: V9N3Q2L7ZB
+documento_fechaExpiracion: 4/12/2025
+documento_proposito: Estudios
+
+Inmigrante_21:
+nombre: Zara Ali
+nacionalidad: Eldara
+fecha_nacimiento: 9 de noviembre de 1988
+tipo_visa: Turismo
+duración_estancia: 3 semanas
+e_civil: Divorciado
+documento_tipo: pasaporte
+documento_numero: X2L8M5T3YH
+documento_fechaExpiracion: 23/9/2024
+
+Inmigrante_22:
+nombre: Rafael Silva
+nacionalidad: Brillica
+fecha_nacimiento: 6 de abril de 1971
+tipo_visa: Negocios
+duración_estancia: 2 meses
+e_civil: Casado
+documento_tipo: pasaporte
+documento_numero: J9N4X7R1VQ
+documento_fechaExpiracion: 16/11/2026
+
+Inmigrante_23:
+nombre: Olivia Williams
+nacionalidad: Ytaria
+fecha_nacimiento: 23 de mayo de 1985
+tipo_visa: Estudios
+duración_estancia: 4 meses
+e_civil: Soltero
+documento_tipo: visa
+documento_numero: K5R8T2X9JW
+documento_fechaExpiracion: 27/1/2025
+documento_proposito: Estudios
+
+Inmigrante_24:
+nombre: Daniel Cordero
+nacionalidad: Cartia
+fecha_nacimiento: 4 de febrero de 1978
+tipo_visa: Turismo
+duración_estancia: 2 semanas
+e_civil: Casado
+documento_tipo: pasaporte
+documento_numero: B7L4J6M3VK
+documento_fechaExpiracion: 14/8/2024
+
+Inmigrante_25:
+nombre: Mia Brown
+nacionalidad: Octavia
+fecha_nacimiento: 30 de junio de 1991
+tipo_visa: Negocios
+duración_estancia: 1 mes
+e_civil: Soltero
+documento_tipo: pasaporte
+documento_numero: F5R9Q3L6TZ
+documento_fechaExpiracion: 10/3/2025

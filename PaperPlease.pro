@@ -40,4 +40,5 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 DISTFILES += \
-    niveles/1/reglasConfig
+    niveles/1/reglasConfig \
+    niveles/revisar

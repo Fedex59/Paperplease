@@ -1,0 +1,23 @@
+pais_residencia: Republia
+proposito_visita: turista
+
+#n3
+cantidad_viajeros: 2
+
+#n4
+pais_paso_anterior:
+visas_previsas:
+ocupacion:
+bienes_transportados:
+
+#nf
+antecedentes:
+elementos:
+
+#sistema de puntos
+Aldeano +10 -15
+Refugiado político: +15 -25
+Diplomático: +25 - 25+ multa
+Revolucionario: Todoso los papeles -25
+
+Contador de multas

@@ -1,0 +1,55 @@
+Inmigrante_4:
+nombre: Clara Bernhardt
+nacionalidad: Belvia
+fecha_nacimiento: 15 de marzo de 1970
+tipo_visa: Turismo
+duración_estancia: 3 semanas
+e_civil: Casado
+documento_tipo: pasaporte
+documento_numero: PZ4931BCX2
+documento_fechaExpiracion: 12/11/2024
+
+Inmigrante_5:
+nombre: Mohamed Al-Hakim
+nacionalidad: Althoria
+fecha_nacimiento: 21 de agosto de 1985
+tipo_visa: Negocios
+duración_estancia: 2 meses
+e_civil: Soltero
+documento_tipo: pasaporte
+documento_numero: GQ5K1DR8MH
+documento_fechaExpiracion: 29/6/2026
+
+Inmigrante_6:
+nombre: Sofia Antonova
+nacionalidad: Elandia
+fecha_nacimiento: 10 de diciembre de 1962
+tipo_visa: Estudios
+duración_estancia: 4 meses
+e_civil: Divorciado
+documento_tipo: visa
+documento_numero: Q9V2W8ZX4R
+documento_fechaExpiracion: 15/3/2025
+documento_proposito: Estudios
+
+Inmigrante_7:
+nombre: Jiro Tanaka
+nacionalidad: Zephyria
+fecha_nacimiento: 3 de abril de 1978
+tipo_visa: Turismo
+duración_estancia: 1 semana
+e_civil: Soltero
+documento_tipo: pasaporte
+documento_numero: B6D1TFQ9KZ
+documento_fechaExpiracion: 5/9/2023
+
+Inmigrante_8:
+nombre: Ayesha Khan
+nacionalidad: Somera
+fecha_nacimiento: 17 de septiembre de 1990
+tipo_visa: Negocios
+duración_estancia: 5 semanas
+e_civil: Casado
+documento_tipo: pasaporte
+documento_numero: LM83M6T1VN
+documento_fechaExpiracion: 20/4/2027

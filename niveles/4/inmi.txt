@@ -1,0 +1,68 @@
+
+Inmigrante_9:
+nombre: Hugo Martínez
+nacionalidad: Panoria
+fecha_nacimiento: 22 de enero de 1965
+tipo_visa: Estudios
+duración_estancia: 6 meses
+e_civil: Soltero
+documento_tipo: visa
+documento_numero: C7O2K3J6RS
+documento_fechaExpiracion: 11/10/2024
+documento_proposito: Estudios
+
+Inmigrante_10:
+nombre: Eliseo Repetto
+nacionalidad: Ternia
+fecha_nacimiento: 9 de noviembre de 1980
+tipo_visa: Turismo
+duración_estancia: 4 semanas
+e_civil: Divorciado
+documento_tipo: pasaporte
+documento_numero: Y8V3W1ZT6C
+documento_fechaExpiracion: 16/2/2025
+
+Inmigrante_11:
+nombre: Ingrid Swanson
+nacionalidad: Nordia
+fecha_nacimiento: 27 de febrero de 1973
+tipo_visa: Negocios
+duración_estancia: 2 meses
+e_civil: Casado
+documento_tipo: pasaporte
+documento_numero: N4K9Q2S7JX
+documento_fechaExpiracion: 9/8/2026
+
+Inmigrante_12:
+nombre: Anwar Al-Mansoor
+nacionalidad: Jufara
+fecha_nacimiento: 30 de octubre de 1988
+tipo_visa: Estudios
+duración_estancia: 6 meses
+e_civil: Soltero
+documento_tipo: visa
+documento_numero: D2L5P8N3VH
+documento_fechaExpiracion: 22/12/2025
+documento_proposito: Estudios
+
+Inmigrante_13:
+nombre: Alina Schmidt
+nacionalidad: Loria
+fecha_nacimiento: 14 de julio de 1959
+tipo_visa: Turismo
+duración_estancia: 1 mes
+e_civil: Viudo
+documento_tipo: pasaporte
+documento_numero: T1X6G4R9VZ
+documento_fechaExpiracion: 17/11/2024
+
+Inmigrante_14:
+nombre: Ricardo Oliveira
+nacionalidad: Arvandia
+fecha_nacimiento: 5 de mayo de 1967
+tipo_visa: Negocios
+duración_estancia: 3 semanas
+e_civil: Casado
+documento_tipo: pasaporte
+documento_numero: H7J9B2X5LY
+documento_fechaExpiracion: 21/6/2026

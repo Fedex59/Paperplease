@@ -68,7 +68,8 @@ OBJECTS       = debug/archivo.o \
 		debug/persona.o \
 		debug/moc_mainwindow.o
 
-DIST          = niveles/1/reglasConfig ..\..\archivo.h \
+DIST          = niveles/1/reglasConfig \
+		niveles/revisar ..\..\archivo.h \
 		..\..\documento.h \
 		..\..\inbasedatos.h \
 		..\..\inmigrante.h \
@@ -883,8 +884,10 @@ install_niveles: first FORCE
 	$(QINSTALL) C:\Users\Federico\Desktop\PaperPlease\niveles\3 C:$(INSTALL_ROOT:@msyshack@%=%)\Users\Federico\Desktop\PaperPlease\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\niveles\3
 	$(QINSTALL) C:\Users\Federico\Desktop\PaperPlease\niveles\4 C:$(INSTALL_ROOT:@msyshack@%=%)\Users\Federico\Desktop\PaperPlease\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\niveles\4
 	$(QINSTALL) C:\Users\Federico\Desktop\PaperPlease\niveles\5 C:$(INSTALL_ROOT:@msyshack@%=%)\Users\Federico\Desktop\PaperPlease\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\niveles\5
+	$(QINSTALL) C:\Users\Federico\Desktop\PaperPlease\niveles\revisar C:$(INSTALL_ROOT:@msyshack@%=%)\Users\Federico\Desktop\PaperPlease\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\niveles\revisar
 
 uninstall_niveles: FORCE
+	-$(DEL_FILE) C:$(INSTALL_ROOT:@msyshack@%=%)\Users\Federico\Desktop\PaperPlease\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\niveles\revisar
 	-$(DEL_FILE) C:$(INSTALL_ROOT:@msyshack@%=%)\Users\Federico\Desktop\PaperPlease\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\niveles\5
 	-$(DEL_FILE) C:$(INSTALL_ROOT:@msyshack@%=%)\Users\Federico\Desktop\PaperPlease\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\niveles\4
 	-$(DEL_FILE) C:$(INSTALL_ROOT:@msyshack@%=%)\Users\Federico\Desktop\PaperPlease\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\niveles\3

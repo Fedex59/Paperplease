@@ -1,0 +1,11 @@
+Inmigrante_15:
+nombre: Emilia Johnson
+nacionalidad: Glyptia
+fecha_nacimiento: 8 de marzo de 1982
+tipo_visa: Turismo
+duración_estancia: 2 semanas
+e_civil: Casado
+documento_tipo: pasaporte
+documento_numero: H8L5Q1MV9X
+documento_fechaExpiracion: 11/12/2025
+
